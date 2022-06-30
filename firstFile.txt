@@ -1,2 +1,2 @@
 a test file
-second line
+modifying second line
